@@ -1,0 +1,7 @@
+[{:name "ターちゃん" :age 9}
+ {:name "クーちゃん" :age 12}
+ {:name "クロコ" :age 6}]
+[("hi" "hey" "yo")
+ [1 2 3]
+ #{\a \b \c}
+ true false nil]
